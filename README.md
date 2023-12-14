@@ -2,7 +2,7 @@
 
 ## Instruktioner
 
-Du ska i denna uppgift bygga ett memoryspel.
+Du ska i denna uppgift bygga ett memoryspel. Utgå ifrån koden som du har fått i detta repo. All HTML och CSS finns redan och det finns en CSS-klassed som heter `flipped` som du kan använda för att "flippa" ett kort.
 
 **Krav på funktionalitet**
 
